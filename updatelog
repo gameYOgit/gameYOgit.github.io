@@ -1,6 +1,7 @@
 <h1>gameYO Update Log</h1>
 <hr>
 <h2>1/1/16:</h2>
+<h3>derp</h3>
 <style>
 h1 {
   font-family: arial;
@@ -8,6 +9,11 @@ h1 {
   text-align: center;
 }
 h2 {
+  font-family: arial;
+  font-size: 30;
+  text-align: center;
+}
+h3 {
   font-family: arial;
   font-size: 30;
   text-align: center;
